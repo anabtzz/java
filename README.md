@@ -15,15 +15,12 @@ Código exemplo de Contagem de produção:
    
   public class Producao {
     public static void main(String[] args) {
-    scanner leitura new scanner (Scanner.in);
-    
-    int producao = 20;
-    
-    system.out.printin ("Digite producação;");
-    producao = leitura.nextInt();
-    
-   }
-  }
+    boolean var = true;
+    if (Var)
+      system.out.printin ("VERDADEIRO");
+    else 
+      Sysetm.out.printin ("Falso");
+    }
  }
 
 
