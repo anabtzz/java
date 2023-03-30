@@ -11,7 +11,7 @@ criação de projeto nome: Aula1Java.java
 
 Código exemplo de Contagem de produção:
 
-import Scanner.util;
+/* existe vários imports, mesma coisa do using.system usado no c#*/ import Scanner.util;
    
   public class Producao {
     public static void main(String[] args) {
