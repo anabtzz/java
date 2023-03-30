@@ -2,15 +2,28 @@
 aula de java 
 criação de projeto nome: Aula1Java.java
 
+> : maior que 
+< : menor que
+>= : maior igual que
+<= : menor igual que
+== : igual que
+! : diferente de
 
-!= diferente
+Código exemplo de Contagem de produção:
 
- public static 
-
- int producao = 20;
-
- if (producao != 10){
- system.out.printin ("Está em produção");
+import Scanner.util;
+   
+  public class Producao {
+    public static void main(String[] args) {
+    scanner leitura new scanner (Scanner.in);
+    
+    int producao = 20;
+    
+    system.out.printin ("Digite producação;");
+    producao = leitura.nextInt();
+    
+   }
+  }
  }
 
 
