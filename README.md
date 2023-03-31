@@ -15,13 +15,13 @@ Código exemplo de Produto de Produção:
 /* existe vários imports, mesma coisa do using.system usado no c#*/ import Scanner.util; /* import usado depois do package para importar classes */
 /* exemplo de condicional simples */
 
-  public class Producao {
-    public static void main(String[] args) {
-    int Produ = 16;
-    if (Produ >= 20) {
-      system.out.printin ("Pode se vender");
-    }else {
-      Sysetm.out.printin ("Não pode ser vendido");
+public class Producao {
+public static void main(String[] args) {
+  int Produ = 16;
+  if (Produ >= 20) {
+     System.out.printin ("Pode se vender");
+   }else {
+     Sysetm.out.printin ("Não pode ser vendido");
     }
   }
 }
