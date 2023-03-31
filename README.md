@@ -15,7 +15,7 @@ CÓDIGO CONTAGEM DE PRODUTO DE PRODUÇÃO:
  existe vários imports, mesma coisa do using.system usado no c#; import Scanner.util;  import usado depois do package para importar classes 
  exemplo de condicional simples 
 
-public class Producao {
+`public class Producao {
 public static void main(String[] args) {
   int Produ = 16;
   if (Produ >= 20) {
@@ -24,7 +24,7 @@ public static void main(String[] args) {
      Sysetm.out.printin ("Não pode ser vendido");
     }
   }
-}
+}´
 
 TIPOS DE DADOS:
 
