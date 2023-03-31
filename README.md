@@ -12,8 +12,8 @@ OPERADORES LÓGICOS:
 
 CÓDIGO CONTAGEM DE PRODUTO DE PRODUÇÃO:
 
-/* existe vários imports, mesma coisa do using.system usado no c#*/ import Scanner.util; /* import usado depois do package para importar classes */
-/* exemplo de condicional simples */
+ existe vários imports, mesma coisa do using.system usado no c#; import Scanner.util;  import usado depois do package para importar classes 
+ exemplo de condicional simples 
 
 public class Producao {
 public static void main(String[] args) {
