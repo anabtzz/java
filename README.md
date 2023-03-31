@@ -10,7 +10,7 @@ OPERADORES LÓGICOS:
 == : igual que
 ! : diferente de
 
-Código exemplo de Produto de Produção:
+CÓDIGO CONTAGEM DE PRODUTO DE PRODUÇÃO:
 
 /* existe vários imports, mesma coisa do using.system usado no c#*/ import Scanner.util; /* import usado depois do package para importar classes */
 /* exemplo de condicional simples */
