@@ -34,7 +34,7 @@ TIPOS DE DADOS:
       short: vai de -32.768 a 32.767;
       int: vai de 2 bilhões e alguma coisa negativos a 2 bilhões e alguma coisa positivos;
 
-      long: vai de 9 e uma porrada de números negativos a 9 e uma cacetada de números positivos.
+      long: vai de 9 a X de números negativos a 9 a X de números positivos.
       Uma variável do tipo:
 
       byte: possui 1 byte de informação ou 8 bits; exemplo: 
