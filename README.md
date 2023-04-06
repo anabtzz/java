@@ -51,5 +51,5 @@ TIPOS DE DADOS:
       double: possui 8 bytes de informação ou 64 bits.
       BSIL BCFD 1329.
 
-TIPOS DE ELEMENTOS:
+
 
